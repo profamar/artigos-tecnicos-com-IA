@@ -8,7 +8,7 @@ Este repositório foi desenvolvido como parte do desafio da DIO, explorando a cr
 
 - **Assunto**: Este artigo aborda a jornada de transição da minha carreira de logística para a área de inteligência artificial (IA) e aprendizado de máquina (ML). Ele descreve os desafios enfrentados, as formações e qualificações obtidas, e as aplicações práticas de IA que desenvolveu, como um sistema de reconhecimento facial. Além disso,  compartilho lições aprendidas sobre a importância do aprendizado contínuo e da resiliência, e ofereço dicas para quem está considerando uma transição de carreira guiada pela tecnologia. O artigo conclui com uma reflexão sobre como a IA pode transformar carreiras e incentivar a reinvenção pessoal.
 - 
-- **Imagem de capa**: [Link ou imagem adicionada ao repositório]
+- **Imagem de capa**: [https://github.com/profamar/artigos-tecnicos-com-IA/blob/main/Apresenta%C3%A7%C3%A3o2.pptx%20artigo.png]
 - 
 - **⚒️ Ferramentas de produção:
 Imagens geradas por: I.A. lexica.art
