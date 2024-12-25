@@ -4,7 +4,6 @@ Este repositório foi desenvolvido como parte do desafio da DIO, explorando a cr
 
 ## **Sobre o Projeto**
 - **Título do artigo**: A Virada: Como a IA Transformou Minha Carreira
-![image](https://github.com/user-attachments/assets/2ac8d3f0-17d3-462a-b682-19e5f3c87bad)
 
 - **Assunto**: Este artigo aborda a jornada de transição da minha carreira de logística para a área de inteligência artificial (IA) e aprendizado de máquina (ML). Ele descreve os desafios enfrentados, as formações e qualificações obtidas, e as aplicações práticas de IA que desenvolveu, como um sistema de reconhecimento facial. Além disso,  compartilho lições aprendidas sobre a importância do aprendizado contínuo e da resiliência, e ofereço dicas para quem está considerando uma transição de carreira guiada pela tecnologia. O artigo conclui com uma reflexão sobre como a IA pode transformar carreiras e incentivar a reinvenção pessoal.
 - 
