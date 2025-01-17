@@ -36,4 +36,4 @@ A IA contribuiu na geração e estruturação do texto, e a revisão humana asse
 4. Estruturar o artigo em blocos.
 5. Publicar o artigo com um call to action.
 
-Bons estudos! 😉
+
