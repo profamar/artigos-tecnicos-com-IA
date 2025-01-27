@@ -37,4 +37,12 @@ A IA contribuiu na geração e estruturação do texto, e a revisão humana asse
 4. Estruturar o artigo em blocos.
 5. Publicar o artigo com um call to action.
 
+## 📄 Licença
+Este projeto está licenciado sob a [Licença MIT](LICENSE). Consulte o arquivo LICENSE para mais detalhes.
+
+---
+📧 Contato
+Para dúvidas ou sugestões, entre em contato pelo LinkedIn: [Márcia Soares](https://www.linkedin.com/in/márcia-soares-236974256)
+
+⭐ Se este projeto foi útil para você, considere dar uma estrela!
 
