@@ -1,6 +1,6 @@
 # Criando Artigos Técnicos com ChatGPT e Lexica.art: Exploração e Inovação com IA
 
-![Descrição da Imagem](URL_da_imagem)
+![Descrição da Imagem](https://github.com/profamar/artigos-tecnicos-com-IA/blob/main/Design%20sem%20nome%20(23).png)
 
 
 Repositório para o desafio 'Criando Artigos Técnicos com ChatGPT e Lexica.art' na DIO, com prompts, imagens e links úteis.
