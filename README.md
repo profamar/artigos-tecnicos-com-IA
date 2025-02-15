@@ -1,5 +1,8 @@
 # Criando Artigos Técnicos com ChatGPT e Lexica.art: Exploração e Inovação com IA
 
+![Descrição da Imagem](URL_da_imagem)
+
+
 Repositório para o desafio 'Criando Artigos Técnicos com ChatGPT e Lexica.art' na DIO, com prompts, imagens e links úteis.
 Este repositório foi desenvolvido como parte do desafio da DIO, explorando a criação de artigos técnicos utilizando IA e ferramentas de design.
 
